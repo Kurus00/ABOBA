@@ -315,31 +315,7 @@
     Section:NewButton("Avatar Resizer", "idk", function()
         loadstring(game:HttpGet("https://pastebin.com/raw/GHR9cRn6", true))()
     end)
-    
-    Section:NewButton("FE Spin Fling", "idk", function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/JYs9FDhN", true))()
-    end)
-    
-    Section:NewButton("FE Gale Fighter", "idk", function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/MRjfKfAV"))()
-    end)
 
-    Section:NewButton("Breakdance", "idk", function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/mqEyrQ4V"))()
-    end)
-
-    Section:NewButton("FE Smallify", "idk", function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/sXZKTtJn"))()
-    end)
-
-    Section:NewButton("FE SpiderMan", "idk", function()
-        loadstring(game:HttpGet(('https://raw.githubusercontent.com/ItsDishan/SpidermanScript/main/Spider-Man V1.0'), true))()
-    end)
-
-    Section:NewButton("Touch Fling", "idk", function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/zaAF1MEq"))()
-    end)
-    
     local Tab = Window:NewTab("Universals")
     
     local Section = Tab:NewSection("Universal Scripts")
