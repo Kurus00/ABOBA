@@ -17,5 +17,5 @@ if game.PlaceId == 6403373529 then
     end
 
         if game.PlaceId == 6516141723 then
-            loadstring(game:HttpGet("https://pastebin.com/raw/wSWJBpRb"))()
+            loadstring(game:HttpGet("https://pastebin.com/raw/BVk2TU3N"))()
             end
